@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a MERN Stack Project<br>🌱 I’m currently learning Web Applications and Artificial Intelligence
+🔭 I’m currently learning Go utilizing channels.<br>🌱 I’m currently learning Parallel and Distributed Processing.<br>👻 I'm using Neovim learning Vim commands. 
 
 
 ## 🌐 Socials:
