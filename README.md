@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Go utilizing channels.<br>🌱 I’m currently learning Parallel and Distributed Processing.<br>👻 I'm using Neovim learning Vim commands. 
+🔭 I’m working on a project with Go utilizing channels.<br>🌱 I’m currently learning Parallel and Distributed Processing.<br>👻 I'm using Neovim learning Vim commands. 
 
 
 ## 🌐 Socials:
